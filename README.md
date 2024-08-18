@@ -1,2 +1,2 @@
-# Test-My-Plant-Hackathon-
-Mobile App - Augmented Reality
+# TestMyPlant
+ Unity Mobile Application

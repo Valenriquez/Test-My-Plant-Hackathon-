@@ -1,2 +1,0 @@
-# TestMyPlant
- Unity Mobile Application

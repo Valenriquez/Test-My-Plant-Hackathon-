@@ -5,9 +5,33 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 1
+    path: Assets/Scenes/AfterMenuScene.unity
+    guid: b6723bb0af7e1489f9ef5429952364cb
+  - enabled: 1
+    path: Assets/Scenes/CommunityTracking.unity
+    guid: ffc55d97c77c743f8b7b353df546cd66
+  - enabled: 1
+    path: Assets/Scenes/ImpactTracking.unity
+    guid: 108f83a034ae34c0dbc31e0a422333af
+  - enabled: 1
+    path: Assets/Scenes/MyPlants.unity
+    guid: 96ada95a372d1449eb69248004695b5d
+  - enabled: 1
+    path: Assets/Scenes/CrapeMyrtle.unity
+    guid: 46993d22d9cce41e8b2330f1273c887b
+  - enabled: 1
+    path: Assets/Scenes/NewScan.unity
+    guid: 6558dab80b5ab4db4955a8f115f9e755
+  - enabled: 1
+    path: Assets/Scenes/SpanishJasmine.unity
+    guid: 74c041ba8e8434874b43c1393bfc1d1a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 433cf1a7ee06245d7b2be35a16a4d6d6
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
